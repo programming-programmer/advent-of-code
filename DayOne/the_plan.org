@@ -1,0 +1,25 @@
+* What's the plan? - Day 1 of AOC 2022
+** Overview
+ * A useful idea is to use the demo text *then* build code based off that. 
+ * I'm typing with dvorak and it is very painful :3
+ * Find the elf with the _most_ calories and _how many calories is the elf carrying?_
+
+** Pseudo-code
+#+begin_src
+ public class {
+   int oldCount = 0;
+   int maxCount = 0;
+   Scanner s = new Scanner();
+   File file = new File(list.txt);
+
+   for (line : list.txt) {
+     oldCount += s.nextInt();
+ 
+     if (s.nextWhitespace() && oldCount >= maxCount) {
+       oldCount.isequals(maxCount);
+   }
+  }
+    System.out.println(toString.(maxCount));
+ } 
+  
+#+end_src
