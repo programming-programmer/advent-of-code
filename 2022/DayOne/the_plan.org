@@ -1,3 +1,5 @@
+#+STARTUP: showall
+
 * What's the plan? - Day 1 of AOC 2022
 ** Overview
  * A useful idea is to use the demo text *then* build code based off that. 
