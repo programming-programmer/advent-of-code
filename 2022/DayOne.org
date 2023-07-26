@@ -5,6 +5,7 @@
  * A useful idea is to use the demo text *then* build code based off that. 
  * I'm typing with dvorak and it is very painful :3
  * Find the elf with the _most_ calories and _how many calories is the elf carrying?_
+ * Is also a part two. So beware
 
 ** Pseudo-code
 #+begin_src
