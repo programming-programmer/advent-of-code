@@ -5,10 +5,9 @@
  * A useful idea is to use the demo text *then* build code based off that. 
  * I'm typing with dvorak and it is very painful :3
  * Find the elf with the _most_ calories and _how many calories is the elf carrying?_
- * Is also a part two. So beware
-
+ * There is also a part two. So beware 👻
 ** Pseudo-code
-#+begin_src
+#+begin_src java
  public class {
    int oldCount = 0;
    int maxCount = 0;
@@ -24,5 +23,4 @@
   }
     System.out.println(toString.(maxCount));
  } 
-  
 #+end_src
